@@ -61,14 +61,24 @@ Built with JavaScript & Tailwind CSS
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
 </p>
 
+
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: mmh427726@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mianmuhammadhassan322  
-🔗 GitHub: https://github.com/YOUR_USERNAME  
+<p align="center">
+  <a href="mailto:mmh427726@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/mianmuhammadhassan322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="https://github.com/mianhasssan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ---
 
 <p align="center">
