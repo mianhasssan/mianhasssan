@@ -79,7 +79,7 @@ Built with JavaScript & Tailwind CSS
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
----
+
 
 <p align="center">
   <i>Building intelligent systems. Engineering the future with AI.</i>
