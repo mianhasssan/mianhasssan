@@ -57,8 +57,8 @@ Built with JavaScript & Tailwind CSS
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mianhasssan&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mianhasssan&theme=tokyonight" height="170"/>
 </p>
 
 
